@@ -1,4 +1,4 @@
 # Tugas4API_DikiHardi
-Nama  : Diki Hardi \n
-NIM   : 200602070 \n
-Kelas : TI-C \n
+Nama  : Diki Hardi
+NIM   : 200602070
+Kelas : TI-C
