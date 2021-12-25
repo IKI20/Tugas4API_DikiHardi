@@ -2,3 +2,6 @@
 Nama  : Diki Hardi
 NIM   : 200602070
 Kelas : TI-C
+
+![Tampilan](API_DIKI.gif)
+
